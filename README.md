@@ -12,7 +12,8 @@ This is a ReactStripe which can see Landing Page
 ## Description 
 
 - Landing Page
-- List of sidebar
+- List of Navbar
+- Hover
 - Responsive
 
 
