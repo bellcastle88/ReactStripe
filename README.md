@@ -7,7 +7,7 @@ This is a ReactStripe which can see Landing Page
 - React
 - Javascript(ES6)  
 - HTML  
-- CSS      
+- CSS        
 
 ## Description 
 
